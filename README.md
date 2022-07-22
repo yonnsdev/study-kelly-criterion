@@ -1,0 +1,1 @@
+# study-kelly-criterion
