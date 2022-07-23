@@ -21,7 +21,7 @@
 <br>
 
 ## 시뮬레이션 결과
-### Static Simulation (No Alg)
+### Static Simulation (No Parameters)
 <div align="center">
   <img src="./img/static_flowchart.png" alt="static_flowchart">
 </div>
@@ -34,7 +34,7 @@
 
 ---
 
-### Kelly Simulation (With Alg)
+### Kelly Simulation (With Parameters)
 <div align="center">
   <img src="./img/kelly_flowchart.png" alt="kelly_flowchart">
 </div>
